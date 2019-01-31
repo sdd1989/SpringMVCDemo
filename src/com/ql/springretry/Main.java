@@ -39,9 +39,9 @@ public class Main {
 //        }catch (Exception e){
 //            e.printStackTrace();
 //        }
-
+        //有状态重试，有两种情况需要使用有状态重试:事务操作需要回滚或者熔断器模式。
         BinaryExceptionClassifier classifier = new BinaryExceptionClassifier(
-                Collections.singleton(Throwable.class)
+                Collections.singleton(MyException.class)
         );
         RetryState state = new DefaultRetryState("mykey", false, classifier);
         String result = null;
@@ -59,7 +59,7 @@ public class Main {
 //        if(n==0 || n==1){
 //            n++;
         if(1==1){
-            throw new Exception();
+            throw new MyException();
         }
         return "success";
     }
