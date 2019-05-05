@@ -12,16 +12,16 @@ public class TestJackson {
 
     public static void main(String[] args) throws IOException {
         //-----jackson----------
-        ObjectMapper mapper = new ObjectMapper();
-//        mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
-        TestData data = new TestData();
-        data.setAge(22);
-        data.setName("sdd");
-        //序列化
-        System.out.println("序列化:"+mapper.writeValueAsString(data));
-        //反序列化
-        String str = "{\"name\":\"sdd\",\"age\":22,\"other\":\"sth\"}";
-        System.out.println("序列化:"+mapper.readValue(str,TestData.class));
+//        ObjectMapper mapper = new ObjectMapper();
+////        mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+//        TestData data = new TestData();
+//        data.setAge(22);
+//        data.setName("sdd");
+//        //序列化
+//        System.out.println("序列化:"+mapper.writeValueAsString(data));
+//        //反序列化
+//        String str = "{\"name\":\"sdd\",\"age\":22,\"other\":\"sth\"}";
+//        System.out.println("序列化:"+mapper.readValue(str,TestData.class));
 
 
         //------fastjson------

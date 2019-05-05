@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/src/com/ql/TestJackson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/config/MccConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/service/BizSettleTaskService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/service/MtPoiService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/service/WelcomeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/service/WmKaidianInfoService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/util/CDNUploadUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/vo/BizSettleSubModuleProgressVo.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/web/api/BizSettleQualificationApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/web/api/BizSettleTaskApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/web/api/CredentialsV5Api.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/web/api/FileV5Api.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/web/api/KaidianApiV5.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/java/com/sankuai/meituan/waimai/merchant/kaidian/web/api/KaidianVerifiedApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_e_kaidian/src/main/resources/applicationContext-waimai-merchant.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_beekeeper/src/main/java/com/sankuai/meituan/waimai/web/controller/UiComponentController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_beekeeper/src/main/java/com/sankuai/meituan/waimai/web/controller/WmKaidianTicketController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_beekeeper/src/main/java/com/sankuai/meituan/waimai/web/controller/WmKaidianTicketDetailController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_beekeeper/src/main/resources/applicationContext-waimai.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_beekeeper/src/main/webapp/WEB-INF/views/temp_poi/details.ftl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_hummingbird/src/main/java/com/sankuai/meituan/waimai/audit/constant/WmAuditPicTypeConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_hummingbird/src/main/java/com/sankuai/meituan/waimai/audit/manager/WebParamCheckHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_hummingbird/src/main/java/com/sankuai/meituan/waimai/audit/rabbitmq/processor/WmAuditTaskProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_hummingbird/src/main/java/com/sankuai/meituan/waimai/audit/util/WmBeanDiffUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_m_hummingbird/src/main/java/com/sankuai/meituan/waimai/audit/web/controller/audit/WmC2ContractAuditController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoIBusinessTimeInfoMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiAggreDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiBaseDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiControlDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiMJoinDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiMetaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiOwnerDispatchDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiSpAreaDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiSpAreaMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiTimeLogDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/dao/WmPoiTimeLogMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/LogisticsFeeMonitorJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/PoiTagPoiCenterLabelAutoJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/TagDuplicateCheckJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmBrandCkaCooperateJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmETLDataAutoFetchJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmPoiCateAutoUpdateByServiceBrandCateJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmPoiControlTaskJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmPoiDPointDataSourceSyncJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmPoiLabelJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmPoiOpenPreNotifyJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmPoiOwnerDispatchTotalTimeCheckJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmPoiRestByDataGroupJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmPoiValidFieldCheckJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/WmShadowCityRecoveryJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/businesstime/HiveQueryNeedWeightPoiCallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/businesstime/SyncDataCommonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/businesstime/SyncTotalData2TmpService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/businesstime/job/CheckWeightTimeJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/businesstime/job/TotalDataSync2AggreJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/businesstime/job/WeightSyncMonitor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/businesstime/job/WmBusinessTimeProbeJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/businesstime/job/WmBusinessTimeSyncWeightJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/candidate/CandidateRegularizationJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/control/AbstractConvertor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/control/AlarmUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/control/Convertible.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/control/DocumentConvertor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/poibrand/WmBrandOwnerUidDisposableJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/poibrand/WmBrandPoiResponsibleIdUpdateJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/qua/UpdateImageJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/qua/UpdateWmPoiQuaStatusJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/job/qua/WmQuaImageTransferJob.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/service/AbstractLabelService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/service/MessageBuilderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/service/PoiWeightAnalysisService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/service/WmCreateRunLegAssetsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/service/WmPoiLogisticsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/service/WmPoiOwnerService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/service/WmPoiPositionAdjustService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/service/WmPoiSpAreaService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/vo/WmPoiOwnerDispatchParam.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/main/java/com/sankuai/meituan/waimai/web/controller/TestController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/test/java/com/sankuai/meituan/waimai/util/ReadImageUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_poi_job/src/test/java/com/sankuai/meituan/waimai/util/S3OrcUrlTransferUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_audit_client/src/main/java/com/sankuai/meituan/waimai/thrift/constatnt/WmAuditTaskBizTypeConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/dao/DWmKaidianInviteSpeechConfigDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/dao/DWmKaidianInviteUserPoiDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/dao/WmKaidianCertMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/domain/DWmKaidianInvite.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/domain/DWmKaidianInviteActiveConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/service/Impl/WmPoiDuoDianThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/service/Impl/merchant/MerchantThriftServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/service/core/ocr/OCRService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/service/core/ticket/support/DefaultWmKaidianTicketDispatchStrategy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/thrift/util/QuaImageUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/java/com/sankuai/meituan/waimai/kaidian/util/ReadImageUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/resources/mybatis/DWmKaidianInviteDAO.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/resources/mybatis/DWmKaidianInviteUserPoiDAO.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/main/resources/mybatis/WmKaidianCertMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/test/java/com/sankuai/meituan/waimai/kaidian/S3OrcUrlTransferUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/test/java/com/sankuai/meituan/waimai/kaidian/thrift/service/merchant/MerchantThriftServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../waimai_service_kaidian_server/src/test/resources/qua">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspaces/property/web/src/main/java/com/jeesite/modules/notice/dao/PnoticeDao.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspaces/property/web/src/main/java/com/jeesite/modules/notice/entity/Pnotice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspaces/property/web/src/main/java/com/jeesite/modules/notice/service/PnoticeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspaces/property/web/src/main/java/com/jeesite/modules/notice/web/PnoticeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspaces/property/web/src/main/resources/views/modules/notice/pnoticeForm.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/workspaces/property/web/src/main/webapp/WEB-INF/classes/logs/debug.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
