@@ -3,5 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$USER_HOME$/workspaces/DDDSample" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspaces/community-ddd-demo" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspaces/desionpattern" vcs="Git" />
+    <mapping directory="$USER_HOME$/workspaces/java-design-patterns" vcs="Git" />
   </component>
 </project>

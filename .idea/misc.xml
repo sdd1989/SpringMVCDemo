@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/workspaces/community-ddd-demo" />
     <file type="web" url="file://$USER_HOME$/workspaces/DDDSample" />
+    <file type="web" url="file://$USER_HOME$/workspaces/java-design-patterns/naked-objects/webapp" />
   </component>
   <component name="Kotlin2JsCompilerArguments">
     <option name="sourceMapEmbedSources" />
@@ -11,6 +13,10 @@
     <option name="originalFiles">
       <list>
         <option value="$USER_HOME$/workspaces/DDDSample/pom.xml" />
+        <option value="$USER_HOME$/workspaces/community-ddd-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/workspaces/desionpattern/pom.xml" />
+        <option value="$USER_HOME$/workspaces/java-design-patterns/pom.xml" />
       </list>
     </option>
   </component>
