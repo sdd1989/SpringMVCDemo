@@ -2,7 +2,8 @@
 <beans
         xmlns="http://www.springframework.org/schema/beans"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mvc="http://www.springframework.org/schema/mvc"
-        xmlns:aop="http://www.springframework.org/schema/aop" xmlns:context="http://www.springframework.org/schema/context"
+        xmlns:aop="http://www.springframework.org/schema/aop"
+        xmlns:context="http://www.springframework.org/schema/context" xmlns:p="http://www.springframework.org/schema/p"
         xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
         http://www.springframework.org/schema/mvc http://www.springframework.org/schema/mvc/spring-mvc.xsd
         http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
@@ -10,6 +11,19 @@
 
     <context:component-scan base-package="com.ql" />
     <context:annotation-config/>
-    <bean id="productFactoryBean" class="com.ql.spring.ProductFactoryBean">
-    </bean>
+    <!--spring动态注册 -->
+<!--    <bean id="productFactoryBean" class="com.ql.spring.ProductFactoryBean" />-->
+
+    <!--spring扩展点 -->
+<!--    <bean id="beanPostProcessor" class="com.ql.spring.MyBeanPostProcessor"/>-->
+<!--    <bean id="instantiationAwareBeanPostProcessor" class="com.ql.spring.MyInstantiationAwareBeanPostProcessor"/>-->
+<!--    <bean id="beanFactoryPostProcessor" class="com.ql.spring.MyBeanFactoryPostProcessor"/>-->
+<!--    <bean id="car" class="com.ql.spring.Car" init-method="myInit" destroy-method="myDestory" scope="singleton" p:carName="BMW"/>-->
+    <!--factorybean代理 -->
+
+    <bean id="testServiceProxy" class="com.ql.spring.TestServiceProxy" />
+
+    <!--factorybean生成bean -->
+    <bean id="studentFactoryBean" class="com.ql.spring.StudentFactoryBean" />
+
 </beans>
