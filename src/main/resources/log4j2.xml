@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="warn">
+    <appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{yyyy/MM/dd HH:mm:ss.SSS} %t [%p] %c{1} (%F:%L) %msg%n"/>
+        </Console>
+    </appenders>
+
+    <loggers>
+        <!-- 3rdparty Loggers -->
+        <logger name="org.springframework.core" level="info">
+        </logger>
+
+        <logger name="org.springframework.beans" level="info">
+        </logger>
+
+        <logger name="org.springframework.context" level="info">
+        </logger>
+
+        <logger name="org.springframework.web" level="info">
+        </logger>
+
+        <root level="info">
+            <appender-ref ref="Console"/>
+        </root>
+    </loggers>
+</configuration>
